@@ -1,0 +1,8 @@
+Card #09
+Title: Profile Management
+
+Description:
+Enable users to view, update, and manage their personal account details and preferences within the app.
+
+Status:
+In Progress
