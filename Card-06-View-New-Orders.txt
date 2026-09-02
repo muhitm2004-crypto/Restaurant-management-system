@@ -1,0 +1,8 @@
+Card #06
+Title: View New Orders
+
+Description:
+Display and manage newly placed customer orders for the restaurant.
+
+Status:
+Done

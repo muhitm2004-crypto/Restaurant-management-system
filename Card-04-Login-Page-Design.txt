@@ -1,0 +1,8 @@
+Card #04
+Title: Login Page Design
+
+Description:
+Design and develop the login page for the Restaurant Management System with proper username and password fields.
+
+Status:
+Done

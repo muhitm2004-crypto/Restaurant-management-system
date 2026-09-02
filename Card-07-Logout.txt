@@ -1,0 +1,8 @@
+Card #07
+Title: Logout
+
+Description:
+Implement the logout functionality to securely log users out of the Restaurant Management System.
+
+Status:
+Done
