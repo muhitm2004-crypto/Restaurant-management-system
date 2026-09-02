@@ -1,0 +1,8 @@
+Card #05
+Title: Make Payment
+
+Description:
+Implement the payment functionality to allow users to make payments for their orders.
+
+Status:
+Done
