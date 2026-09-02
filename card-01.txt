@@ -1,0 +1,5 @@
+Card #01
+Title: Food Management
+Description: Admin can add, update and delete food items from the restaurant menu. Each food item includes a name, price, category (e.g. starter, main course, dessert), image, and availability status (available/unavailable). This module ensures the restaurant's food list stays updated in real time.
+Status: In Progress
+Assigned to: Muhit 

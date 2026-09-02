@@ -1,0 +1,5 @@
+Card #02
+Title: Manage Menu
+Description: Allows admin to organize food items into different menu categories (e.g. Breakfast, Lunch, Dinner, Beverages). Admin can rearrange item order, group items under categories, and control which menu items are shown to customers at a given time.
+Status: Testing
+Assigned to: Muhit
